@@ -2,7 +2,7 @@
 
 An mod that is fully reimagineable version from the original HPBar Mod by PKmX
 
-#️ Credits
+## Credits
 
 - 0Eagle - Base File from HPBar v25b
 - PkmX - Original base file
